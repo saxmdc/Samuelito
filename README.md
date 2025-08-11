@@ -51,8 +51,8 @@ Mi experiencia abarca todo el ciclo de vida del desarrollo, desde la especificac
 
 ## 📊 Analítica de Commits
 
-![Commits](https://github-readme-stats.vercel.app/api?username=Samuel_Duque&show_icons=true&theme=radical)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel_Duque&layout=compact&theme=radical)
+![Commits](https://github-readme-stats.vercel.app/api?username=Samuelito&show_icons=true&theme=radical)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelito&layout=compact&theme=radical)
 
 ---
 
