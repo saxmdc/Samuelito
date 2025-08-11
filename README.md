@@ -58,6 +58,6 @@ Mi experiencia abarca todo el ciclo de vida del desarrollo, desde la especificac
 
 ## 🌐 Contacto
 
-📧 **Email:** tuemail@correo.com  
+📧 **Email:** samuelduquec1084@gmail.com  
 💼 **LinkedIn:** [Tu Perfil](https://www.linkedin.com/)  
 📂 **Portafolio:** [Tu Portafolio Web](https://tusitio.com)
